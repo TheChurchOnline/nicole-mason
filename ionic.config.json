@@ -1,0 +1,7 @@
+{
+  "name": "st-james-ame-app",
+  "type": "custom",
+  "integrations": {
+    "cordova": {}
+  }
+}
